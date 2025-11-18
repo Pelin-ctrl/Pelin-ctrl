@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**Pelin-ctrl/Pelin-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Pelin — a frontend enthusiast passionate about building clean and interactive web experiences.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on I’m currently working on frontend stuff - building websites by using React, Tailwind. I also use Figma and Adobe programs for UI and design projects! Here I’m posting my projects, little ideas. Feel free to look up to!
+- 🤔 Tool&Tech:
+       React, Tailwind 
+       Figma, Adobe Photoshop/Illustrator ...
+- 📫 How to reach me:
+       Gmail: pelinakdulun2020@gmail.com
+       Telegram: @PelinAkd
+- ⚡ Fun fact:
+       * I have a beautiful cat from Mexico
+       * Tea addict 
+       * Can speak Russian, Turkish, English
+       * Into-reading, romcoms, travelling 
+       * My main hobby-building things by lines of code!!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
