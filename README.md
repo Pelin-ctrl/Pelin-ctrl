@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👩🏼‍💻👋�
 
 I'm Pelin — a frontend enthusiast passionate about building clean and interactive web experiences.
 
