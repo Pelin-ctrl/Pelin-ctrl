@@ -14,7 +14,6 @@ I'm Pelin — a frontend enthusiast passionate about building clean and interact
 - **How to reach me:**  
   Gmail: **pelinakdulun2020@gmail.com**  
   Telegram: **@PelinAkd**
-  My channel: **@codewithpoly**
 
 - **Fun facts about me:**  
   🐈‍⬛ I have a beautiful cat from Mexico  
